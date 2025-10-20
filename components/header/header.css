@@ -1,0 +1,8 @@
+.header {
+    background-color: #ffffff;
+    padding: 96px 0 77px;
+ }
+.header__title {
+    line-height: 64px;
+    letter-spacing: 0%;
+}
