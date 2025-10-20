@@ -1,1 +1,50 @@
 /* Стилизация кнопки */
+.button {
+  border: 8px;
+  border-radius: 8px;
+  font-size: 16px;
+  background-color: blue;
+  cursor: pointer;
+  color: white;
+ }
+.button:active {
+  color: white;
+  background-color: blue;
+ } 
+button:disabled {
+  border: 8px;
+  border-radius: 1.5rem;
+  font-size: 16px;
+  background-color: blue;
+  border: 8px;
+  border-radius: 1.5rem;
+  font-size: 16px;
+  background-color: #4263EB;
+  cursor: not-allowed;
+  color: white; 
+  opacity: 50%;
+ }
+.button1 {
+  border: 8px;
+  border-radius: 8px;
+  font-size: 16px;
+  background-color: #7048E8;
+  cursor: pointer;
+  color: white;
+ }
+.button1:active {
+  color: white;
+  background-color: #7048E8;
+ }
+button1:disabled {
+  border: 8px;
+  border-radius: 1.5rem;
+  font-size: 16px;
+  background-color: #7048E8;
+  border: 8px;
+  border-radius: 1.5rem;
+  font-size: 16px;
+  cursor: not-allowed;
+  color: white; 
+  opacity: 50%;
+ }

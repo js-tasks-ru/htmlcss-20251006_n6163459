@@ -1,1 +1,16 @@
 /* Стилизация аккордеона */
+summary {
+padding: 10px;
+background-color: #FFFFFF;
+border: 1px solid #ccc;
+cursor: pointer;
+border-radius: 8px;
+}
+details[open] > summary { background-color: #e0e0e0;
+border-bottom: none;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+}
+summary {
+  list-style: none;
+}
