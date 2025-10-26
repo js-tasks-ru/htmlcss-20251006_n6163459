@@ -3,7 +3,7 @@ button.button {
   border: 8px;
   border-radius: 8px;
   font-size: 16px;
-}
+ }
  button.type1 {
   color: white;
   background-color: blue;
@@ -18,5 +18,5 @@ button.type2 {
  }
 button.opacity--disabled:disabled {
   opacity: 0.5;
-}
+ }
   
