@@ -21,6 +21,8 @@
 
     --primary: var(--blue);
     --secondary: var(--purple);
+    --alternate: var(--grey-2);
+    --color: var(--white);
 }
 
 boby {
