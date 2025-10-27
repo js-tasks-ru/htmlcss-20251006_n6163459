@@ -16,13 +16,13 @@
  } 
 .button_secondary {
  background-color: var(--secondary);
- color: var(--color);
-  border: var(--border);
+ color: var(--white);
+  border: 1px solid var(--secondary);
  } 
  .button_alternate {
-  color: Gray 4;
+  color: #495057;
   background-color: var(--alternate);
-  border-width: 1px;
+  border: 1px solid var(--gray-3);
   transition: opacity 200ms ease-in-out, background 200ms ease-in-out;
  }
 .button:hover {
