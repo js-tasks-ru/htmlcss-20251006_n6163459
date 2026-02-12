@@ -21,7 +21,8 @@
 
     --primary: var(--blue);
     --secondary: var(--purple);
-}
+    --alternate: var(--grey-4);
+ }
 
 boby {
     font-family: 'Roboto', sans-serif;
